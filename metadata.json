@@ -1,0 +1,5 @@
+{
+  "name": "StintLogic.com / Proto",
+  "description": "A professional-grade Formula 1 telemetry analysis tool using OpenF1 data and Gemini AI for real-time insights and historical comparison.",
+  "requestFramePermissions": []
+}
